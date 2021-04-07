@@ -40,7 +40,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -54,7 +54,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -68,7 +68,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -82,7 +82,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -96,7 +96,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -110,7 +110,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -138,7 +138,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -152,7 +152,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -166,7 +166,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -180,7 +180,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -194,7 +194,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -208,7 +208,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
@@ -222,7 +222,7 @@ int main(void) {
     scanf("%i", &registration);
     printf("Enter the status of student A (Absent) or P (Present): ");
     scanf("%s", &situation);
-      if (situation == 'P' || situation == 'p') {
+      if (situation == 'A' || situation == 'a') {
         absentees++;
       } // Absent counter end
       else {
