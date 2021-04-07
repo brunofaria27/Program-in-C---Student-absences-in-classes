@@ -235,13 +235,17 @@ int main(void) {
     *************PERCENTAGE CALCULATION**************
     ************************************************/
 
-    percentage = (100 * absentees)/studentnumbers;
+    percentage = (100 * (double)absentees)/(double)studentnumbers;
     
     printf("The percentage of students who missed class %c is: %.2lf\n", set, percentage);
     printf("\n\n");
 
     if (percentage > 5) {
       bigger5++;
+      
+      absentees = 0; // Variable cleaning
+      current = 0; // Variable cleaning
+      percentage = 0; // Variable cleaning
     } // End counter classes with absences greater than 5%
   } // End for to do the repetition 14 times (14 classes)
 
